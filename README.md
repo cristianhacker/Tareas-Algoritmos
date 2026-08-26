@@ -6,7 +6,7 @@ Repositorio correspondiente a las actividades de la asignatura de Algoritmos y P
 | N.º | Nombre completo | Código |
 |:---:|-----------------|--------|
 | 1 | MIRKO ALEKSANDER SULCA LOPEZ | Código 1 |
-| 2 | EDSON ALDAIR ROJAS MORILLO | Código 2 |
+| 2 | EDSON ALDAIR ROJAS MORILLO | 00174456 |
 | 3 | CRISTIAN RONNY CHUNGA HUARSAYA | 001739368 |
 
 Docente
@@ -30,7 +30,7 @@ La Parte 2 contiene 2 preguntas y 2 ejercicios prácticos desarrollados en:
 -  Python (`.py`)
 -  Pseudocódigo (`.psc`)
 
-Las respuestas a las preguntas se encuentran en el archivo `respuestas.md`.
+Las respuestas a las preguntas se encuentran en el archivo `ejercicio_01_02.md`.
 
 ###  Informe
 
