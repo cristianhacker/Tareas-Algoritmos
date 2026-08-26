@@ -1,11 +1,13 @@
 # Tareas - Algoritmos
 
 Repositorio correspondiente a las actividades de la asignatura de Algoritmos y Programación para el Desarrollo de Software.
-👥 Integrantes del grupo
-N.º	Nombre completo	Código
-1	Nombre del integrante 1	Código
-2	Nombre del integrante 2	Código
-3	Nombre del integrante 3	Código
+##  Integrantes del grupo
+
+| N.º | Nombre completo | Código |
+|:---:|-----------------|--------|
+| 1 | Nombre del integrante 1 | Código 1 |
+| 2 | Nombre del integrante 2 | Código 2 |
+| 3 | Nombre del integrante 3 | Código 3 |
 
 Docente
 Nombre del docente: [Nombre del docente]
