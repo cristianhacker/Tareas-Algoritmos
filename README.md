@@ -10,7 +10,7 @@ Repositorio correspondiente a las actividades de la asignatura de Algoritmos y P
 | 3 | CRISTIAN RONNY CHUNGA HUARSAYA | 001739368 |
 
 Docente
-Nombre del docente: [Nombre del docente]
+Nombre del docente: BENJAMIN ALEJANDRO INFANTES SALAZAR
 ##  Tarea 01
 
 ### Parte 1
