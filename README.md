@@ -9,7 +9,7 @@ Repositorio correspondiente a las actividades de la asignatura de Algoritmos y P
 | 2 | EDSON ALDAIR ROJAS MORILLO | 001744656 |
 | 3 | CRISTIAN RONNY CHUNGA HUARSAYA | 001739368 |
 
-Docente
+
 Nombre del docente: BENJAMIN ALEJANDRO INFANTES SALAZAR
 ##  Tarea 01
 
