@@ -16,7 +16,7 @@ Cada ejercicio ha sido desarrollado utilizando:
 
 ### Parte 2
 
-La Parte 2 contiene 3 preguntas y 2 ejercicios prácticos desarrollados en:
+La Parte 2 contiene 2 preguntas y 2 ejercicios prácticos desarrollados en:
 
 - 🐍 Python (`.py`)
 - 📝 Pseudocódigo (`.psc`)
