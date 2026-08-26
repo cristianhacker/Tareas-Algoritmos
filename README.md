@@ -3,10 +3,10 @@
 Repositorio correspondiente a las actividades de la asignatura de Algoritmos y Programación para el Desarrollo de Software.
 ##  Integrantes del grupo
 
-| N.º | Nombre completo | Código |
+| N.º | Nombre completo | Código ID |
 |:---:|-----------------|--------|
 | 1 | MIRKO ALEKSANDER SULCA LOPEZ | Código 1 |
-| 2 | EDSON ALDAIR ROJAS MORILLO | 00174456 |
+| 2 | EDSON ALDAIR ROJAS MORILLO | 001744656 |
 | 3 | CRISTIAN RONNY CHUNGA HUARSAYA | 001739368 |
 
 Docente
