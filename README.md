@@ -5,9 +5,9 @@ Repositorio correspondiente a las actividades de la asignatura de Algoritmos y P
 
 | N.º | Nombre completo | Código |
 |:---:|-----------------|--------|
-| 1 | Nombre del integrante 1 | Código 1 |
-| 2 | Nombre del integrante 2 | Código 2 |
-| 3 | Nombre del integrante 3 | Código 3 |
+| 1 | MIRKO ALEKSANDER SULCA LOPEZ | Código 1 |
+| 2 | EDSON ALDAIR ROJAS MORILLO | Código 2 |
+| 3 | CRISTIAN RONNY CHUNGA HUARSAYA | 001739368 |
 
 Docente
 Nombre del docente: [Nombre del docente]
