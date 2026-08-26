@@ -27,8 +27,8 @@ Las respuestas a las preguntas se encuentran en el archivo `respuestas.md`.
 
 El informe incluye los ejercicios solicitados y el video explicativo.
 
-- 5 ejercicios en Python (`.py`)
-- 5 ejercicios en pseudocódigo (`.psc`)
+- 4 ejercicios en Python (`.py`)
+- 4 ejercicios en pseudocódigo (`.psc`)
 - 🎥 Video explicativo
 
 ## 🎥 Video explicativo
