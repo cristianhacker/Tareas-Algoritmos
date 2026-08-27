@@ -5,8 +5,8 @@ Repositorio correspondiente a las actividades de la asignatura de Algoritmos y P
 
 | N.º | Nombre completo | Código ID |
 |:---:|-----------------|--------|
-| 1 | MIRKO ALEKSANDER SULCA LOPEZ | Código 1 |
-| 2 | EDSON ALDAIR ROJAS MORILLO | 001744656 |
+| 1 | MIRKO ALEKSANDER SULCA LOPEZ | 001744656 |
+| 2 | EDSON ALDAIR ROJAS MORILLO |  |001738588
 | 3 | CRISTIAN RONNY CHUNGA HUARSAYA | 001739368 |
 
 
