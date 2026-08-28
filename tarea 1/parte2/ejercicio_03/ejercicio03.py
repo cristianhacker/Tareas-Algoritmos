@@ -3,10 +3,10 @@
 como resultado los mensajes: “Clave correcta” y “Usuario autorizado”"""
 
 print("===INGRESE SU CLAVE DE SENATI===")
+clave = "senati$2025"
 
 while True:
-    clave = "senati$2025"
-    user = input("Digite su constraseña: ").lower()
+    user = input("Digite su constraseña: ")
 
     if user == clave:
         print("Clave correcta")
